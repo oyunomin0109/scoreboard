@@ -1,2 +1,3 @@
 # scoreboard
 noahasu氏が作成したscoreboard pluginにjobを表示させるコードを追加したもの
+(元のライセンスに載せる必要があったため)
